@@ -1,5 +1,5 @@
 # git_study
-## git使用
+## GitHub使用
 1.下载 [GitHub Desktop](https://desktop.github.com/)
 
 2.在GitHub新建Repository
